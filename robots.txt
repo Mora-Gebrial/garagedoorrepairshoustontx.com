@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /404.html
+Disallow: /admin/
+
+Sitemap: https://garagedoorrepairshoustontx/sitemap.xml
+Sitemap: https://garagedoorrepairshoustontx/blog_sitemap.xml
